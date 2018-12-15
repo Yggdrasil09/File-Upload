@@ -59,12 +59,3 @@ Now you can load **localhost:3000** in your browser and use the app.
 * [React](https://reactjs.org/) - Frontend javascript library
 * [Node](https://nodejs.org/en/) - Backend framework
 * [Express](https://expressjs.com/) - Node.js web application framework
-
-## Authors
-
-* **Antonio Erdeljac** - *Initial work* - [File-Upload-Tutorial](https://github.com/AntonioErdeljac)
-
-## Acknowledgments
-
-* This is a repository for my [Medium.com tutorial](https://medium.com/@_aerdeljac/file-upload-with-node-js-react-js-686e342ad7e7)
-* AirBnB's coding rules are applied in the frontend.
